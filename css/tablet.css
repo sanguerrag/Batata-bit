@@ -1,0 +1,11 @@
+.plans-container--card .middle-card {
+    margin-top: 20px;
+}
+.main-exchange-container-slider {
+    overflow-x: hidden;
+    justify-content: space-evenly;
+}
+.plans-container--slider {
+    overflow-x: hidden;   
+}
+
